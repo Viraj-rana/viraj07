@@ -37,4 +37,4 @@ I bridge the gap between complex artificial intelligence infrastructure and mode
 - ⚙️ **Engineering Focus:** Latency optimization, model quantization, and clean API design patterns.
 - 🎯 **Current Objective:** Developing vertical AI micro-SaaS frameworks and distributed training structures.
 
-🚀 **Let's Connect:**  [Personal Portfolio]([https://virajportit.netlify.app](https://viraj-rana.github.io/site/)) | ✉️ hackteck404@gmail.com
+🚀 **Let's Connect:**  [Personal Portfolio]((https://viraj-rana.github.io/site/)) | ✉️ hackteck404@gmail.com
